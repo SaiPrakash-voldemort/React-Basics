@@ -1,0 +1,15 @@
+.contactMeForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.contactMeForm form {
+  display: flex;
+  flex-direction: column;
+}
+.contactMeForm button {
+  width: 250px;
+  background-color: hotpink;
+  border-radius: 10px;
+}
